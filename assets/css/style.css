@@ -29,3 +29,15 @@
 .bg-blue-900\/90 {
     background-color: rgba(30, 58, 138, 0.9); /* Màu tương ứng với bg-blue-900 và 90% độ trong suốt */
 }
+
+.w-1\/3 {
+    width: 33.3333%;
+}
+
+.hover\:bg-gray-400:hover {
+    background-color: #9CA3AF; /* Màu gray-400 trong Tailwind */
+}
+
+.gap-1 {
+    gap: 4px;
+}
